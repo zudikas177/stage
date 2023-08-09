@@ -1,0 +1,89 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+footer {
+background-color: #013D7C;
+margin-top: 37%;
+color: #fff;
+padding: 20px;
+}
+
+.logo {
+    width: 5rem;
+    aspect-ratio: 4/4;
+    object-fit: contain;
+
+}
+
+.headligne {
+    color: #fff;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 1rem;
+    line-height: 2;
+
+}
+
+
+header{
+    background-color: #013D7C;
+    margin-bottom: 1rem;
+  
+}
+.navbar {
+    padding: 0 0 4.5rem;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: ubuntu, sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: montserrat-light;
+}
+.contact{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.btn-secondary{
+   background-color: #013D7C;
+}
+.navbar .navbar-toggler {
+    margin-left: auto;
+}
+
+    
+
+
+
+
+
+
